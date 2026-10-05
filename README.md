@@ -47,14 +47,7 @@ This workflow removes that repetitive manual work.
 - CRM integration
 - Automated lead follow-ups
 
-## 🎥 Demo Video
-
-
-https://github.com/user-attachments/assets/d77729cd-63c5-42e3-b9c8-177c6ece17ba
-
-
-
-## 📌 Use Cases
+  ## 📌 Use Cases
 
 Useful for:
 
@@ -72,3 +65,12 @@ Useful for:
 Rahul
 
 AI Automation & Workflow Automation
+
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/d77729cd-63c5-42e3-b9c8-177c6ece17ba
+
+
+
+
