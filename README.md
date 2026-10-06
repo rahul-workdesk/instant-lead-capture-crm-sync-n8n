@@ -28,7 +28,6 @@ This workflow removes that repetitive manual work.
 - Google Sheets
 - Data validation
 - Data Processing
-- Data Cleaning
 - JavaScript / data processing
 
 ## ✨ Features
